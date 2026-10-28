@@ -26,6 +26,4 @@ O projeto ainda está numa fase inicial e vou acrescentar novas funcionalidades 
 
 ## Autor
 
-Pedro Joaquim Nunes de Barros
-
-Curso TGPSI3 | Escola APEL
+Pedro Barros
