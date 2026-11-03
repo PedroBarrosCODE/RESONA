@@ -17,6 +17,7 @@ A ideia é criar um site de música inspirado no Letterboxd, mas em vez de filme
 - HTML
 - CSS
 - JavaScript
+- XMAPP
 
 ## Objetivo
 
