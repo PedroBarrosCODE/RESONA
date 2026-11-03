@@ -14,10 +14,13 @@ A ideia é criar um site de música inspirado no Letterboxd, mas em vez de filme
 
 ## Tecnologias utilizadas
 
+
 - HTML
+- PHP
 - CSS
 - JavaScript
-- XMAPP
+- MySQL
+  
 
 ## Objetivo
 
